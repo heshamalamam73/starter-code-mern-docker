@@ -1,0 +1,9 @@
+the url link for the entire project
+https://dev.to/sujaykundu777/utilizing-the-power-of-docker-while-building-mern-apps-using-mern-docker-4olb
+
+
+for development
+run docker-compose up --build
+
+for production
+run docker-compose-prod up --build
